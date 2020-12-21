@@ -23,14 +23,14 @@ body{
     animation-duration: 7s ;
     animation-iteration-count: infinite;
 }
-/* @keyframes prac{
+@keyframes prac{
    0%{transform: translateY(0px); background-color: rgb(100, 173, 173);}
    10%{transform: translateX(-100px); background-color: rgba(120, 193, 193, 0.3);}
    50%{transform: translateY(-200px); background-color: rgba(140, 213, 213, 0.5);}
    90%{transform: translateX(100px); background-color: rgba(120, 193, 193, 0.3)}
    100%{transform: translateY(0px); background-color: rgb(100, 173, 173)}
 
-} */
+}
 #d1{
     animation-delay: 0s;
     
